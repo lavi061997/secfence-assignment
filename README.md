@@ -12,4 +12,4 @@ Run node client.js and node server.js
 npm i
 ```
 
-Run using node client.js and node server.jsw
+Run using node client.js and node server.js
